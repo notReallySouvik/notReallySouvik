@@ -36,8 +36,8 @@ I believe in the power of collaboration and learning from others. Feel free to c
 
 - **GitHub:** [notReallySouvik](https://github.com/notReallySouvik/notReallySouvik)
 - **YouTube:** [Souvik Das](https://www.youtube.com/channel/UCa_Ng3Qo3xuHUYZeExp2-FQ)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-- **Twitter:** [@YourTwitterHandle](https://twitter.com/your-twitter-handle)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/souvik-das-05b430295/)
+- **Twitter:** [@YourTwitterHandle](https://twitter.com/SouvikDas476)
 
 Let's embark on this journey of continuous learning and exploration together. If you have any ideas, suggestions, or would like to collaborate on a project, please don't hesitate to reach out. Thanks for stopping by!
 
