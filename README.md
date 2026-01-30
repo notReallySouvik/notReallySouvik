@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=notReallySouvik.notReallySouvik" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=notReallySouvik.notReallySouvik"/>
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Souvik+Das!;" />
@@ -9,15 +9,9 @@ Hello there! 👋 I'm Souvik Das, an enthusiastic individual currently pursuing 
 ## About Me
 
 - **Name:** Souvik Das
-- **Academic Background:** Physics Student
-- **Professional Status:** Currently unemployed (Please Hire Me)
+- **Academic Background:** Bachelor of Science in Computer Science, BITS Pilani
+- **Professional Status:** Available for hire
 - **Passions:** Learning, Exploring, Creating
-
-## My YouTube Channel
-
-I run a YouTube channel where I document my self-learning journey across diverse subjects. From exploring the world of coding and technology to making interesting projects, my channel is a reflection of my curiosity and eagerness to try new things. If you're interested in learning with me and witnessing my growth, feel free to check out my channel and subscribe:
-
-[![YouTube Channel](https://img.shields.io/badge/My%20YouTube%20Channel-Subscribe-red)](https://www.youtube.com/channel/UCa_Ng3Qo3xuHUYZeExp2-FQ)
 
 ## What to Expect on My GitHub
 
@@ -35,9 +29,9 @@ None yet but Coming Soon!
 I believe in the power of collaboration and learning from others. Feel free to connect with me on various platforms:
 
 - **GitHub:** [notReallySouvik](https://github.com/notReallySouvik/notReallySouvik)
-- **YouTube:** [Souvik Das](https://www.youtube.com/channel/UCa_Ng3Qo3xuHUYZeExp2-FQ)
-- **LinkedIn:** [Souvik Das](https://www.linkedin.com/in/souvik-das-05b430295/)
-- **Twitter:** [@SouvikDas476](https://twitter.com/SouvikDas476)
+- **YouTube:** Coming Soon!
+- **LinkedIn:** Coming Soon!
+- **Twitter:** Coming Soon!
 
 Let's embark on this journey of continuous learning and exploration together. If you have any ideas, suggestions, or would like to collaborate on a project, please don't hesitate to reach out. Thanks for stopping by!
 
