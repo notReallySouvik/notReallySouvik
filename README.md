@@ -4,13 +4,16 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Souvik+Das!;" />
 </h1>
 
-Hello there! 👋 I'm Souvik Das, an enthusiastic individual currently pursuing a degree in physics with a strong desire to explore a wide range of interests and learn new things. While I may not have a strong background in computers, I'm passionate about self-improvement and documenting my learning journey. I invite you to join me on this exciting adventure as I embark on various projects and share my experiences.
+Hello! 👋 I’m Souvik Das — a curious learner currently pursuing a Bachelor of Science in Computer Science through the BITS Pilani Online Degree Program.
+
+I began my academic journey in Physics, but along the way, I discovered a deeper interest in computing and technology. That shift led me to where I am now — building, experimenting, and documenting everything I learn. I invite you to join me on this exciting adventure as I embark on various projects and share my experiences.
 
 ## About Me
 
 - **Name:** Souvik Das
 - **Academic Background:** Bachelor of Science in Computer Science, BITS Pilani
-- **Professional Status:** Available for hire
+- **Background:** Former Physics student
+- **Professional Status:** Open to opportunities
 - **Passions:** Learning, Exploring, Creating
 
 ## What to Expect on My GitHub
